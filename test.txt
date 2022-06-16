@@ -1,0 +1,5 @@
+hi its my new repository
+i delete previous one because i had a conflict between files
+and now everything works
+
+let`s continue our education
