@@ -1,13 +1,3 @@
 hi its my new repository
 i delete previous one because i had a conflict between files
 and now everything works
-
-let`s continue our education
-
-add some lines 
-for example, git is a system of control version
-
-Европа Часовые пояса карту, показать часовых поясов, текущее местное время в городах и странах, времени, путешествия, международных часовых поясов,
-
-
-add something else and delete useless symbols
