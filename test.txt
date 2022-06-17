@@ -2,4 +2,10 @@ hi its my new repository
 i delete previous one because i had a conflict between files
 and now everything works
 
+
 ok lets add some text
+
+________________________
+------------------------
+========================
+
